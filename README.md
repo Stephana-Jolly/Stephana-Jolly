@@ -3,7 +3,7 @@
 💻 Aspiring Data Analyst & Developer with a passion for solving real-world problems through code and data.  
 🎓 Lifelong learner focused on AI, machine learning, and web development.  
 🛠️ I build projects that combine intelligence and interactivity — from smart gesture systems to analytics dashboards.  
-🌱 Currently exploring: Data Science,Deep Learning, TensorFlow, and Full Stack Development.  
+🌱 Currently exploring Data Science,AI and Full Stack Development.  
 
 ---
 
